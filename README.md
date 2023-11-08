@@ -27,7 +27,7 @@ Ascii-art-web-dockerize consists on making your site :
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:ayessenb/ascii-art-web-dockerize.git
+git clone git@github.com:compygirl/ascii-art-web-dockerize.git
 ```
 Go to the downloaded repository:
 
